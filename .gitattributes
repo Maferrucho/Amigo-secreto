@@ -1,2 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Inicializar el repositorio Git
+git init
+
+# Añadir todos los archivos al staging area
+git add .
+
+# Hacer el primer commit
+git commit -m "Versión inicial del proyecto Amigo Secreto"
